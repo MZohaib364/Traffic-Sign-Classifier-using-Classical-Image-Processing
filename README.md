@@ -61,7 +61,7 @@ Extraction of the following features:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/traffic-sign-classifier.git
+git clone https://github.com/MZohaib364/Traffic-Sign-Classifier-using-Classical-Image-Processing
 cd traffic-sign-classifier
 
 2. Make sure you have all required dependencies:
