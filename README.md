@@ -68,6 +68,7 @@ cd traffic-sign-classifier
 pip install numpy pillow opencv-python matplotlib
 
 3. Run Notebook Cells
+```
 
 ## Results
 The classification performance is evaluated using:
@@ -76,7 +77,7 @@ The classification performance is evaluated using:
 - Class-wise precision, recall, and F1-score
 - Confusion matrix visualization
 
-Implementation Notes
+## Implementation Notes
 
 - All image processing operations are implemented from scratch using NumPy
 - The classifier uses interpretable rule-based logic rather than statistical models
