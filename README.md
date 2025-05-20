@@ -4,7 +4,7 @@ This project implements a complete rule-based traffic sign classifier using clas
 
 ## Project Overview
 
-The system processes cropped traffic sign images and classifies them into one of several predefined categories using color, shape, and geometric features. All image processing operations are implemented from scratch using NumPy, focusing on fundamental image processing principles.
+The system processes cropped traffic sign images and classifies them into one of several predefined categories using color, shape, and geometric features. All image processing operations are implemented from scratch using NumPy, focusing on fundamental principles of image processing.
 
 ## Dataset
 
